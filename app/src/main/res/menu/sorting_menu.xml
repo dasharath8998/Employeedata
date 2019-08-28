@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sortingName" android:title="Sort By Name"/>
+    <item android:id="@+id/sortingEmail" android:title="Sort By Email"/>
+    <item android:id="@+id/sortingLastAdded" android:title="Sort By Last added"/>
+</menu>
